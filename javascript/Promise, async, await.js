@@ -1,6 +1,6 @@
-const promise = new Promise(...)
+// const promise = new Promise(...)
 
-promise.then((result) => ...)
+// promise.then((result) => ...)
 
 // 최신 함수
 async function main(){
@@ -15,7 +15,7 @@ async function main(){
 }
 
 // 방법 1
-main().then((name) => ...)
+// main().then((name) => ...)
 // 위의 result가 name으로 옴
 
 // 방법 2
